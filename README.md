@@ -17,10 +17,11 @@ https://user-images.githubusercontent.com/84109630/135936884-8f113d9f-a014-4ec6-
 
 
 
-# Issues (In Heroku App Deploy)
+# Issue (ONLY In Heroku App Deploy)
 
 * Index.js (starter code)
-- In DevTool (Console) Uncaught TypeError: transactions.unshift is not a function (index.js: 108)
+
+#### In DevTool (Console) Uncaught TypeError: transactions.unshift is not a function (index.js: 108)
 
 
 # Reference
