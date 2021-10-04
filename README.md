@@ -8,6 +8,6 @@
 
 # Reference
 
-#### Module 18
-#### Module 19
-#### Class Work 19 (PWA)
+* Module 18
+* Module 19
+* Class Work 19 (PWA)
