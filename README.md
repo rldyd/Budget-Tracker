@@ -1,4 +1,4 @@
-<img alt="Bitbucket open issues" src="https://img.shields.io/bitbucket/issues/rldyd/Budget-Tracker"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rldyd/Budget-Tracker">
+<img alt="Bitbucket open issues" src="https://img.shields.io/bitbucket/issues/rldyd/Budget-Tracker">
 
 
 # Budget Tracker
