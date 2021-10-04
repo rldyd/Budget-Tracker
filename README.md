@@ -8,9 +8,13 @@
 
 [GO TO APPLICATION](https://blooming-caverns-23612.herokuapp.com)
 
-# Preview Application
+# Application Video (Local)
 
-<img width="1349" alt="Screen Shot 2021-10-03 at 8 14 54 PM" src="https://user-images.githubusercontent.com/84109630/135778329-472a0443-9dd4-46df-b99e-283b53c75927.png">
+
+https://user-images.githubusercontent.com/84109630/135936837-fe308d5e-998a-4d72-8bca-deb83d1bfbea.mov
+
+
+
 
 # Reference
 
