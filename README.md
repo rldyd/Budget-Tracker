@@ -17,7 +17,7 @@ https://user-images.githubusercontent.com/84109630/135936884-8f113d9f-a014-4ec6-
 
 
 
-# Issue (ONLY In Heroku App Deploy)
+# Issue (ONLY In Heroku App)
 
 1. Index.js (starter code)
 
